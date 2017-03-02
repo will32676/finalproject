@@ -53,14 +53,16 @@ aside{
       }
 h1{ 
    text-align:center;
-   color:#3571f2
+   color:#3571f2;
    font-size:250%; 
    }
 h2{
    color:#3571f2;
    }
-h3{   
-  color:#3571f2;
+h3{     
+   text-align:center;
+   color:#3571f2;
+   font-size:250%;
   }
   p{
     font-family:Verdana,Georgia, serif;
