@@ -53,7 +53,7 @@ aside{
       }
 h1{ 
    text-align:center;
-   color:#3571f2;
+   color:#3571f2
    font-size:250%; 
    }
 h2{
@@ -70,4 +70,8 @@ footer{
        background-color:#eff0f2;
        margin:10px;
        height:150px;
-      }
+       margin-left:10px;
+       margin-right:10px;
+       margin-top:0px;
+       margin-bottom:10px;
+}
